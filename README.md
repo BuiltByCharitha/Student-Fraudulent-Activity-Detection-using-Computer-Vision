@@ -20,4 +20,4 @@ This project involves real-time video analysis for detecting cellphones and book
    pip install opencv-python opencv-python-headless dlib numpy
 
 ### Acknowledgements:
-Special thanks to [MostafaHassan1/J6_Hackathon_Nadara](https://github.com/MostafaHassan1/J6_Hackathon_Nadara) for providing the reference code for the object detection part. The inspiration from their work was used to implement the object detection model in this project.
+Special thanks to [MostafaHassan1/J6_Hackathon_Nadara](https://github.com/MostafaHassan1/J6_Hackathon_Nadara) for providing the reference code for the eyetracking and data storage part. The inspiration from their work was used to implement the object detection model in this project.
