@@ -1,4 +1,4 @@
-# Cellphone and Book Detection in Video Feed
+# Impersonation, Multiple face detection, eye tracking, Cellphone and Book Detection in Video Feed
 
 This project involves real-time video analysis for detecting cellphones and books using a standard laptop camera. It combines face recognition with object detection and provides warnings if certain objects are detected in the video feed.
 
